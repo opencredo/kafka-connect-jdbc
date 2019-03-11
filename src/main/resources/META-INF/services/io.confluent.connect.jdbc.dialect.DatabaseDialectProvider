@@ -1,4 +1,5 @@
 io.confluent.connect.jdbc.dialect.GenericDatabaseDialect$Provider
+io.confluent.connect.jdbc.dialect.SpannerDatabaseDialect$Provider
 io.confluent.connect.jdbc.dialect.Db2DatabaseDialect$Provider
 io.confluent.connect.jdbc.dialect.DerbyDatabaseDialect$Provider
 io.confluent.connect.jdbc.dialect.OracleDatabaseDialect$Provider
